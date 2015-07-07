@@ -32,4 +32,5 @@ Pyramid Formating
   margin: 0 auto;
   background: rgba(0, 0, 0, .2);
   max-height: 80%;
+  border-radius: 25px;
 }
