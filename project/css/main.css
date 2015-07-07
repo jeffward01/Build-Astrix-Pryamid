@@ -1,0 +1,35 @@
+/********************
+Background
+*********************/
+
+html {
+  background: #7A52CC;
+  text-align: center;
+}
+
+/********************
+Background
+*********************/
+
+header {
+  margin: 0 auto;
+  max-width: 90%;
+  border-bottom: 5px solid black;
+}
+
+/********************
+Pyramid Formating
+*********************/
+
+#output {
+  text-align: center;
+  position: relative;
+  margin-top: 20px;
+}
+#container {
+  max-width: 90%;
+  min-width: 10%;
+  margin: 0 auto;
+  background: rgba(0, 0, 0, .2);
+  max-height: 80%;
+}
